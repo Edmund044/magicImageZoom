@@ -1,0 +1,3 @@
+<link type="text/css" rel="stylesheet" href="./magiczoom/magiczoom.css"/>
+<script type="text/javascript" src="./magiczoom/magiczoom.js"></script>
+<img id="myimage" src="something.png"></a>
